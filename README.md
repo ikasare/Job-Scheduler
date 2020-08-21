@@ -11,7 +11,7 @@ The program is also dynamic: New jobs can be scheduled and completed ones can be
 
 There are a basic number of jobs that are fed to the program when it starts. These jobs are added in the `dataa.txt` file.
 
-The program is able to load these jobs and create a statrte schedule from the load file when it starts.
+The program is able to load these jobs and create a starter schedule from the load file when it starts.
 
 The program is dynamic: Jobs can be added and removed and the order of scheduled jobs still remains intact.
 
