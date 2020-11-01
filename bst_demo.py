@@ -139,4 +139,4 @@ class BSTDemo:
             elif key > curr.data:
                 self._delete_val(curr.right_child, curr, False, key)
         else:
-            print(f"{key} not found in Tre")
+            print(f"{key} not found in Tree")
